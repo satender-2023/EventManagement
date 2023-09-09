@@ -970,6 +970,11 @@ border-top-right-radius: 20px;
         margin: 48px 0px 0px 17px;
         font-weight: bold;
     }
+    .navbar-logo {
+        margin: 0px 18px 12px 0px;
+        padding: 6px 0px 5px 1px !important;
+        
+    }
 
 }
 
@@ -1176,5 +1181,7 @@ border-top-right-radius: 20px;
 
     .navbar-logo {
         margin: 0px 18px 12px 0px;
+        padding: 6px 0px 5px 1px;
+        border-radius: 10px;
     }
 }
