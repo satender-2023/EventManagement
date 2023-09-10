@@ -760,6 +760,8 @@ border-top-right-radius: 20px;
     font-weight: bold;
 
 }
+
+/* media query */
 @media (min-width: 1200px) {
     .trek-card{
         max-width: 35%;
@@ -1005,8 +1007,6 @@ border-top-right-radius: 20px;
     }
 
 }
-
-
 
 
 
